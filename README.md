@@ -14,6 +14,15 @@ se muestran los resultados obtenidos del caso 1
 ### Fase de la señal
 ![Fase](imagenes/fase.png)
 
+## Estructura del repositorio
+
+ASYSC_C3/
+├── ASYSC_ExamenC3_V3.ipynb
+├── README.md
+└── imagenes/
+    ├── onda.png
+    ├── espectro.png
+    └── fase.png
 
 ## Autores
 

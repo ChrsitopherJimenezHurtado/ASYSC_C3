@@ -16,8 +16,9 @@ se muestran los resultados obtenidos del caso 1
 
 
 ## Autores
- ____________________________________________
-|Esteban Pérez Sánchez            TI23110362 |
-|Christopher Jimenez Hurtado      CTI2211803 |
-|TI-501                                      |
- --------------------------------------------
+
+| Nombre                       | No. Control | 
+|-----------------------------|-------------|
+| Esteban Pérez Sánchez       | TI23110362  | 
+| Christopher Jimenez Hurtado | CTI2211803  | 
+

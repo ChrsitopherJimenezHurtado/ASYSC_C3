@@ -16,7 +16,7 @@ se muestran los resultados obtenidos del caso 1
 
 ## Estructura del repositorio
 
-ASYSC_C3/
+ASYSC_C3/  
 ├── ASYSC_ExamenC3_V3.ipynb
 ├── README.md
 └── imagenes/

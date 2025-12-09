@@ -11,3 +11,14 @@ se muestran los resultados obtenidos del caso 1
 
 ### Fase de la señal
 ![Fase](imagenes/fase.png)
+
+
+## Estructura del repositorio
+
+/Simulacion_RLC
+  ├── simulacion_RLC.ipynb
+  ├── README.md
+  └── imagenes/
+       ├── onda.png
+       ├── espectro.png
+       └── fase.png

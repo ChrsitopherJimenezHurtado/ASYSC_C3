@@ -15,7 +15,7 @@ se muestran los resultados obtenidos del caso 1
 ![Fase](imagenes/fase.png)
 
 ## Estructura del repositorio
-
+```
 ASYSC_C3/  
 ├── ASYSC_ExamenC3_V3.ipynb  
 ├── README.md  
@@ -23,7 +23,7 @@ ASYSC_C3/
     ├── onda.png  
     ├── espectro.png  
     └── fase.png  
-
+```
 ## Autores
 
 | Nombre                       | No. Control | 

@@ -13,12 +13,9 @@ se muestran los resultados obtenidos del caso 1
 ![Fase](imagenes/fase.png)
 
 
-## Estructura del repositorio
-
-/Simulacion_RLC
-  ├── simulacion_RLC.ipynb
-  ├── README.md
-  └── imagenes/
-       ├── onda.png
-       ├── espectro.png
-       └── fase.png
+## Autores
+ ____________________________________________
+|Esteban Pérez Sánchez            TI23110362 |
+|Christopher Jimenez Hurtado      CTI2211803 |
+|TI-501                                      |
+ --------------------------------------------

@@ -1,4 +1,4 @@
-# 📡 Simulación del Circuito RLC Serie (Examen U3)
+# 📡 Simulación del Circuito RLC Serie (Examen C3)
 
 # ASYSC_C3
 Análisis de sistemas: Cierre corte 3
